@@ -1,4 +1,4 @@
-# Introduction
+# Introducción
 
 Un aplicativo simple que calcula el promedio y la desviacion estandar de un conjunto de valores dado en un archivo de texto
 
@@ -10,7 +10,7 @@ Un aplicativo simple que calcula el promedio y la desviacion estandar de un conj
 En este laboratorio se busca hacer un código que busque la media y la desviación estándar según un archivo txt, teniendo como entrada solo la ubicacion del directorio
 ![](../ARSWi_MeanMyLinkedList-main/img/listas.png)
 
-## Strategy
+## Estrategia
 
 La estrategia se basó en seguir las instrucciones del profesor, comenzar por el API de java y de allí se parte a la implementación de la solución.
 
@@ -18,6 +18,7 @@ La estrategia se basó en seguir las instrucciones del profesor, comenzar por el
 ## Description
 En el directorio `src.main.jav.edu.escuelaing.arsw.Taller`, se encuentra la clase principal llamada `LinkedList` con el método main este método llamada a la clase `GeneralMethods`
 la cual tiene los principales métodos llamados `getMeanOfData` y `getStandardDeviation` que generan la media y desviación estándar con la ayuda de la clase Linked List.
+
 ![](img/linkedlist.png)
 
 ![](img/add.png)
